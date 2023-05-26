@@ -1,12 +1,8 @@
 
 /* Your CSS Code here. */
-.box {
+.holder {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.box div {
-  width: 100px;
-  height: 100px;
-}
